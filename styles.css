@@ -13,7 +13,7 @@ background-color:#f8f8f8;
 .book{
 	left:0px;
 	text-align:center;
-	background-color:rgb(46, 204, 113);
+	background-color:white;
 	margin-top:20px;
 }
 img{
@@ -29,7 +29,7 @@ p{
 	padding-left:6px;
 	color:#777777;
 }
-button{
+.button{
 	background-color:#2ecc71;
 	color:white;
 	width:97%;
